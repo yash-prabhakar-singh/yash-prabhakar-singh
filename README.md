@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yash-prabhakar-singh
-- 👀 I’m interested in Back-End Development specially Java
+- 👀 I’m interested in Back-End Development especially Java
 - 💞️ I’m looking to collaborate on new and exciting technologies
 - 📫 How to reach me E-Mail: champion.rajavat@gmail.com, Phone: 6291161418
 
